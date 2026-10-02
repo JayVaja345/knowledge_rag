@@ -1,0 +1,838 @@
+Domain,Sub-function,Node Type
+Market & Competitive Intelligence,Market Research,Market
+Market & Competitive Intelligence,Market Research,Persona / ICP
+Market & Competitive Intelligence,Market Research,Industry
+Market & Competitive Intelligence,Market Research,Account
+Market & Competitive Intelligence,Market Research,Survey / Feedback
+Market & Competitive Intelligence,Market Research,Survey / Feedback
+Market & Competitive Intelligence,Market Research,Persona / ICP
+Market & Competitive Intelligence,Market Research,Account
+Market & Competitive Intelligence,Market Research,Contact
+Market & Competitive Intelligence,Competitive Intelligence,Competitor
+Market & Competitive Intelligence,Competitive Intelligence,Content Asset
+Market & Competitive Intelligence,Competitive Intelligence,Product
+Market & Competitive Intelligence,Competitive Intelligence,Offer
+Market & Competitive Intelligence,Competitive Intelligence,Market
+Market & Competitive Intelligence,Competitive Intelligence,Competitor
+Market & Competitive Intelligence,Competitive Intelligence,Opportunity / Deal
+Market & Competitive Intelligence,Competitive Intelligence,Account
+Market & Competitive Intelligence,Industry Intelligence,Industry
+Market & Competitive Intelligence,Industry Intelligence,Intent Signal
+Market & Competitive Intelligence,Industry Intelligence,Market
+Market & Competitive Intelligence,Industry Intelligence,Competitor
+Market & Competitive Intelligence,Pricing Intelligence,Offer
+Market & Competitive Intelligence,Pricing Intelligence,Competitor
+Market & Competitive Intelligence,Pricing Intelligence,Market
+Market & Competitive Intelligence,Pricing Intelligence,Order
+Market & Competitive Intelligence,Pricing Intelligence,KPI / Metric
+Market & Competitive Intelligence,Business Intelligence,KPI / Metric
+Market & Competitive Intelligence,Business Intelligence,Opportunity / Deal
+Market & Competitive Intelligence,Business Intelligence,Account
+Market & Competitive Intelligence,Business Intelligence,Order
+Market & Competitive Intelligence,Business Intelligence,Campaign
+Corporate Communications & Public Relations,Corporate Communications,Content Asset
+Corporate Communications & Public Relations,Corporate Communications,Company
+Corporate Communications & Public Relations,Corporate Communications,Stakeholder
+Corporate Communications & Public Relations,Corporate Communications,KPI / Metric
+Corporate Communications & Public Relations,Public Relations,Content Asset
+Corporate Communications & Public Relations,Public Relations,Media Outlet
+Corporate Communications & Public Relations,Public Relations,Journalist
+Corporate Communications & Public Relations,Public Relations,Company
+Corporate Communications & Public Relations,Public Relations,Journalist
+Corporate Communications & Public Relations,Public Relations,Media Outlet
+Corporate Communications & Public Relations,Public Relations,Activity / Touchpoint
+Corporate Communications & Public Relations,Public Relations,Content Asset
+Corporate Communications & Public Relations,External Affairs,Stakeholder
+Corporate Communications & Public Relations,External Affairs,Activity / Touchpoint
+Corporate Communications & Public Relations,External Affairs,Regulator / Govt Body
+Corporate Communications & Public Relations,Reputation Management,Review / Mention
+Corporate Communications & Public Relations,Reputation Management,Health Score
+Corporate Communications & Public Relations,Reputation Management,Media Outlet
+Corporate Communications & Public Relations,Reputation Management,Content Asset
+Branding & Corporate Marketing,Brand Strategy,Brand
+Branding & Corporate Marketing,Brand Strategy,Content Asset
+Branding & Corporate Marketing,Brand Strategy,Company
+Branding & Corporate Marketing,Brand Strategy,Market
+Branding & Corporate Marketing,Brand Strategy,Persona / ICP
+Branding & Corporate Marketing,Brand Communications,Brand
+Branding & Corporate Marketing,Brand Communications,Content Asset
+Branding & Corporate Marketing,Brand Communications,Campaign
+Branding & Corporate Marketing,Brand Communications,Channel
+Branding & Corporate Marketing,Marketing Strategy,Campaign
+Branding & Corporate Marketing,Marketing Strategy,KPI / Metric
+Branding & Corporate Marketing,Marketing Strategy,Market
+Branding & Corporate Marketing,Marketing Strategy,Persona / ICP
+Branding & Corporate Marketing,Marketing Strategy,Brand
+Digital Marketing,Growth Marketing,Campaign
+Digital Marketing,Growth Marketing,Lead
+Digital Marketing,Growth Marketing,KPI / Metric
+Digital Marketing,Growth Marketing,Persona / ICP
+Digital Marketing,Growth Marketing,Channel
+Digital Marketing,Performance Marketing,Campaign
+Digital Marketing,Performance Marketing,Channel
+Digital Marketing,Performance Marketing,Offer
+Digital Marketing,Performance Marketing,KPI / Metric
+Digital Marketing,Performance Marketing,Persona / ICP
+Digital Marketing,Performance Marketing,Intent Signal
+Digital Marketing,Search Marketing,Content Asset
+Digital Marketing,Search Marketing,Channel
+Digital Marketing,Search Marketing,Campaign
+Digital Marketing,Search Marketing,KPI / Metric
+Digital Marketing,Social Media,Content Asset
+Digital Marketing,Social Media,Channel
+Digital Marketing,Social Media,Activity / Touchpoint
+Digital Marketing,Social Media,Community
+Digital Marketing,Social Media,Campaign
+Digital Marketing,Content Marketing,Content Asset
+Digital Marketing,Content Marketing,Persona / ICP
+Digital Marketing,Content Marketing,Product
+Digital Marketing,Content Marketing,Campaign
+Digital Marketing,Email & Automation,Workflow / Sequence
+Digital Marketing,Email & Automation,Lead
+Digital Marketing,Email & Automation,Activity / Touchpoint
+Digital Marketing,Email & Automation,Contact
+Digital Marketing,Email & Automation,Persona / ICP
+Digital Marketing,Website & Conversion,Channel
+Digital Marketing,Website & Conversion,Lead
+Digital Marketing,Website & Conversion,KPI / Metric
+Digital Marketing,Website & Conversion,Intent Signal
+Digital Marketing,Website & Conversion,Content Asset
+Physical / Field Marketing,Events & Exhibitions,Event
+Physical / Field Marketing,Events & Exhibitions,Lead
+Physical / Field Marketing,Events & Exhibitions,Activity / Touchpoint
+Physical / Field Marketing,Events & Exhibitions,Account
+Physical / Field Marketing,Events & Exhibitions,Campaign
+Physical / Field Marketing,Trade Marketing,Campaign
+Physical / Field Marketing,Trade Marketing,Offer
+Physical / Field Marketing,Trade Marketing,Partner
+Physical / Field Marketing,Trade Marketing,Channel
+Physical / Field Marketing,Trade Marketing,Order
+Physical / Field Marketing,Field Marketing,Event
+Physical / Field Marketing,Field Marketing,Lead
+Physical / Field Marketing,Field Marketing,Territory / Region
+Physical / Field Marketing,Field Marketing,Account
+Physical / Field Marketing,Field Marketing,Campaign
+Product Marketing,Product Positioning,Content Asset
+Product Marketing,Product Positioning,Product
+Product Marketing,Product Positioning,Persona / ICP
+Product Marketing,Product Positioning,Competitor
+Product Marketing,Product Positioning,Market
+Product Marketing,Go-To-Market,Campaign
+Product Marketing,Go-To-Market,Product
+Product Marketing,Go-To-Market,Offer
+Product Marketing,Go-To-Market,Persona / ICP
+Product Marketing,Go-To-Market,Channel
+Product Marketing,Competitive Marketing,Content Asset
+Product Marketing,Competitive Marketing,Competitor
+Product Marketing,Competitive Marketing,Product
+Product Marketing,Competitive Marketing,Offer
+Customer / Partner Marketing,Customer Marketing,Reference / Case Study
+Customer / Partner Marketing,Customer Marketing,Account
+Customer / Partner Marketing,Customer Marketing,Content Asset
+Customer / Partner Marketing,Customer Marketing,Contact
+Customer / Partner Marketing,Customer Marketing,Health Score
+Customer / Partner Marketing,Partner Marketing,Campaign
+Customer / Partner Marketing,Partner Marketing,Partner
+Customer / Partner Marketing,Partner Marketing,Offer
+Customer / Partner Marketing,Partner Marketing,Content Asset
+Customer / Partner Marketing,Lifecycle Marketing,Campaign
+Customer / Partner Marketing,Lifecycle Marketing,Activity / Touchpoint
+Customer / Partner Marketing,Lifecycle Marketing,Account
+Customer / Partner Marketing,Lifecycle Marketing,Persona / ICP
+Customer / Partner Marketing,Lifecycle Marketing,Offer
+Account-Based Marketing (ABM),ABM Strategy & Planning,Target Account List
+Account-Based Marketing (ABM),ABM Strategy & Planning,Account
+Account-Based Marketing (ABM),ABM Strategy & Planning,Persona / ICP
+Account-Based Marketing (ABM),ABM Strategy & Planning,Market
+Account-Based Marketing (ABM),ABM Strategy & Planning,Competitor
+Account-Based Marketing (ABM),ABM Strategy & Planning,Intent Topic
+Account-Based Marketing (ABM),ABM Strategy & Planning,Account Plan
+Account-Based Marketing (ABM),ABM Strategy & Planning,Account
+Account-Based Marketing (ABM),ABM Strategy & Planning,Opportunity / Deal
+Account-Based Marketing (ABM),ABM Strategy & Planning,Buying Group
+Account-Based Marketing (ABM),ABM Strategy & Planning,KPI / Metric
+Account-Based Marketing (ABM),Account Intelligence & Research,Buying Group
+Account-Based Marketing (ABM),Account Intelligence & Research,Account
+Account-Based Marketing (ABM),Account Intelligence & Research,Contact
+Account-Based Marketing (ABM),Account Intelligence & Research,Industry
+Account-Based Marketing (ABM),Account Intelligence & Research,Competitor
+Account-Based Marketing (ABM),Account Intelligence & Research,Intent Signal
+Account-Based Marketing (ABM),Account Intelligence & Research,Engagement Score
+Account-Based Marketing (ABM),Account Intelligence & Research,Intent Topic
+Account-Based Marketing (ABM),Account Intelligence & Research,Opportunity / Deal
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Campaign
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Activity / Touchpoint
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Channel
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Buying Group
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Persona / ICP
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Content Asset
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Content Asset
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Offer
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Event
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Partner
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Target Account List
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Intent Topic
+Account-Based Marketing (ABM),Account Engagement & Campaigns,Opportunity / Deal
+Account-Based Marketing (ABM),ABM Analytics & Operations,Engagement Score
+Account-Based Marketing (ABM),ABM Analytics & Operations,Attribution Model
+Account-Based Marketing (ABM),ABM Analytics & Operations,KPI / Metric
+Account-Based Marketing (ABM),ABM Analytics & Operations,Activity / Touchpoint
+Account-Based Marketing (ABM),ABM Analytics & Operations,Campaign
+Account-Based Marketing (ABM),ABM Analytics & Operations,Opportunity / Deal
+Account-Based Marketing (ABM),ABM Analytics & Operations,KPI / Metric
+Account-Based Marketing (ABM),ABM Analytics & Operations,Account Plan
+Account-Based Marketing (ABM),ABM Analytics & Operations,Buying Group
+Account-Based Marketing (ABM),ABM Analytics & Operations,Target Account List
+Account-Based Marketing (ABM),ABM Analytics & Operations,Account
+Channel Enablement,Partner Success,Partner
+Channel Enablement,Partner Success,Activity / Touchpoint
+Channel Enablement,Partner Success,Health Score
+Channel Enablement,Partner Success,Account
+Channel Enablement,Partner Success,Opportunity / Deal
+Channel Enablement,Partner Enablement,Knowledge Article
+Channel Enablement,Partner Enablement,Partner
+Channel Enablement,Partner Enablement,Product
+Channel Enablement,Partner Enablement,Content Asset
+Channel Enablement,Partner Operations,Opportunity / Deal
+Channel Enablement,Partner Operations,Partner
+Channel Enablement,Partner Operations,Offer
+Channel Enablement,Partner Operations,KPI / Metric
+Channel Enablement,Partner Support,Ticket / Case
+Channel Enablement,Partner Support,Activity / Touchpoint
+Channel Enablement,Partner Support,Knowledge Article
+Channel Enablement,Partner Support,Partner
+Community Management,Community Building,Community
+Community Management,Community Building,Contact
+Community Management,Community Building,Activity / Touchpoint
+Community Management,Community Building,KPI / Metric
+Community Management,User Communities,Event
+Community Management,User Communities,Community
+Community Management,User Communities,Activity / Touchpoint
+Community Management,User Communities,Contact
+Community Management,User Communities,Product
+Community Management,Developer Communities,Community
+Community Management,Developer Communities,Content Asset
+Community Management,Developer Communities,Product
+Community Management,Developer Communities,Contact
+Liaising & Advocacy,Customer Advocacy,Reference / Case Study
+Liaising & Advocacy,Customer Advocacy,Contact
+Liaising & Advocacy,Customer Advocacy,Account
+Liaising & Advocacy,Customer Advocacy,Content Asset
+Liaising & Advocacy,Industry Relations,Analyst Firm
+Liaising & Advocacy,Industry Relations,Activity / Touchpoint
+Liaising & Advocacy,Industry Relations,Market
+Liaising & Advocacy,Industry Relations,Content Asset
+Liaising & Advocacy,Government Relations,Regulator / Govt Body
+Liaising & Advocacy,Government Relations,Activity / Touchpoint
+Liaising & Advocacy,Government Relations,Stakeholder
+Liaising & Advocacy,External Stakeholder Relations,Stakeholder
+Liaising & Advocacy,External Stakeholder Relations,Activity / Touchpoint
+Liaising & Advocacy,External Stakeholder Relations,Content Asset
+Pre-Sales / Solutions Consulting,Solutions Engineering,Content Asset
+Pre-Sales / Solutions Consulting,Solutions Engineering,Opportunity / Deal
+Pre-Sales / Solutions Consulting,Solutions Engineering,Product
+Pre-Sales / Solutions Consulting,Solutions Engineering,Account
+Pre-Sales / Solutions Consulting,Solutions Engineering,Knowledge Article
+Pre-Sales / Solutions Consulting,Technical Sales,Opportunity / Deal
+Pre-Sales / Solutions Consulting,Technical Sales,Activity / Touchpoint
+Pre-Sales / Solutions Consulting,Technical Sales,Product
+Pre-Sales / Solutions Consulting,Technical Sales,Contact
+Pre-Sales / Solutions Consulting,Bid & Proposal Management,Content Asset
+Pre-Sales / Solutions Consulting,Bid & Proposal Management,Opportunity / Deal
+Pre-Sales / Solutions Consulting,Bid & Proposal Management,Product
+Pre-Sales / Solutions Consulting,Bid & Proposal Management,Offer
+Pre-Sales / Solutions Consulting,Demonstration & POC,Opportunity / Deal
+Pre-Sales / Solutions Consulting,Demonstration & POC,Activity / Touchpoint
+Pre-Sales / Solutions Consulting,Demonstration & POC,Product
+Pre-Sales / Solutions Consulting,Demonstration & POC,Account
+Business Development,Strategic Business Development,Opportunity / Deal
+Business Development,Strategic Business Development,Account
+Business Development,Strategic Business Development,Activity / Touchpoint
+Business Development,Strategic Business Development,Market
+Business Development,Strategic Partnerships,Partner
+Business Development,Strategic Partnerships,Contract
+Business Development,Strategic Partnerships,Account
+Business Development,Strategic Partnerships,Market
+Business Development,Market Expansion,Territory / Region
+Business Development,Market Expansion,Market
+Business Development,Market Expansion,Account
+Business Development,Market Expansion,KPI / Metric
+Channel Partner Sales,Channel Sales Leadership,Opportunity / Deal
+Channel Partner Sales,Channel Sales Leadership,Quota / Target
+Channel Partner Sales,Channel Sales Leadership,Partner
+Channel Partner Sales,Channel Sales Leadership,KPI / Metric
+Channel Partner Sales,Distribution Management,Order
+Channel Partner Sales,Distribution Management,Partner
+Channel Partner Sales,Distribution Management,Listing / SKU
+Channel Partner Sales,Distribution Management,Offer
+Channel Partner Sales,Partner Account Management,Account
+Channel Partner Sales,Partner Account Management,Activity / Touchpoint
+Channel Partner Sales,Partner Account Management,Opportunity / Deal
+Channel Partner Sales,Partner Account Management,Partner
+Channel Partner Sales,Channel Development,Partner
+Channel Partner Sales,Channel Development,Activity / Touchpoint
+Channel Partner Sales,Channel Development,Territory / Region
+Online Sales,E-Commerce Sales,Order
+Online Sales,E-Commerce Sales,Listing / SKU
+Online Sales,E-Commerce Sales,Offer
+Online Sales,E-Commerce Sales,Contact
+Online Sales,Inside Sales,Lead
+Online Sales,Inside Sales,Opportunity / Deal
+Online Sales,Inside Sales,Activity / Touchpoint
+Online Sales,Inside Sales,Persona / ICP
+Online Sales,Inside Sales,Intent Signal
+Online Sales,Tele Sales,Lead
+Online Sales,Tele Sales,Activity / Touchpoint
+Online Sales,Tele Sales,Contact
+Online Sales,Tele Sales,Offer
+Online Sales,Online Revenue Management,KPI / Metric
+Online Sales,Online Revenue Management,Order
+Online Sales,Online Revenue Management,Channel
+Online Sales,Online Revenue Management,Listing / SKU
+Field Sales,Enterprise Sales,Opportunity / Deal
+Field Sales,Enterprise Sales,Account
+Field Sales,Enterprise Sales,Contract
+Field Sales,Enterprise Sales,Contact
+Field Sales,Enterprise Sales,Quota / Target
+Field Sales,Corporate Sales,Opportunity / Deal
+Field Sales,Corporate Sales,Account
+Field Sales,Corporate Sales,Contact
+Field Sales,Corporate Sales,Offer
+Field Sales,Territory Sales,Territory / Region
+Field Sales,Territory Sales,Opportunity / Deal
+Field Sales,Territory Sales,Quota / Target
+Field Sales,Territory Sales,Account
+Field Sales,Industrial Sales,Opportunity / Deal
+Field Sales,Industrial Sales,Account
+Field Sales,Industrial Sales,Activity / Touchpoint
+Field Sales,Industrial Sales,Product
+Account Management,Strategic Accounts,Account
+Account Management,Strategic Accounts,Opportunity / Deal
+Account Management,Strategic Accounts,Health Score
+Account Management,Strategic Accounts,Contact
+Account Management,Strategic Accounts,KPI / Metric
+Account Management,Key Accounts,Account
+Account Management,Key Accounts,Opportunity / Deal
+Account Management,Key Accounts,Contact
+Account Management,Key Accounts,Contract
+Account Management,Client Relationship Management,Account
+Account Management,Client Relationship Management,Activity / Touchpoint
+Account Management,Client Relationship Management,Health Score
+Account Management,Client Relationship Management,KPI / Metric
+Account Management,Account Operations,Activity / Touchpoint
+Account Management,Account Operations,KPI / Metric
+Account Management,Account Operations,Account
+Account Management,Account Operations,Opportunity / Deal
+Customer Education & Training,Customer Onboarding,Activity / Touchpoint
+Customer Education & Training,Customer Onboarding,Account
+Customer Education & Training,Customer Onboarding,Health Score
+Customer Education & Training,Customer Onboarding,Contact
+Customer Education & Training,Customer Onboarding,Knowledge Article
+Customer Education & Training,Customer Training,Contact
+Customer Education & Training,Customer Training,Activity / Touchpoint
+Customer Education & Training,Customer Training,Product
+Customer Education & Training,Customer Training,Knowledge Article
+Customer Education & Training,Certification Programs,Knowledge Article
+Customer Education & Training,Certification Programs,Contact
+Customer Education & Training,Certification Programs,Product
+Customer Education & Training,Knowledge Management,Knowledge Article
+Customer Education & Training,Knowledge Management,Product
+Customer Education & Training,Knowledge Management,Ticket / Case
+Customer Retention & Renewal Management,Renewals,Renewal / Subscription
+Customer Retention & Renewal Management,Renewals,Contract
+Customer Retention & Renewal Management,Renewals,Account
+Customer Retention & Renewal Management,Renewals,Health Score
+Customer Retention & Renewal Management,Retention,Health Score
+Customer Retention & Renewal Management,Retention,Activity / Touchpoint
+Customer Retention & Renewal Management,Retention,Account
+Customer Retention & Renewal Management,Retention,Renewal / Subscription
+Customer Retention & Renewal Management,Loyalty Programs,Offer
+Customer Retention & Renewal Management,Loyalty Programs,Account
+Customer Retention & Renewal Management,Loyalty Programs,Contact
+Customer Retention & Renewal Management,Loyalty Programs,Activity / Touchpoint
+Customer Retention & Renewal Management,Referral Programs,Lead
+Customer Retention & Renewal Management,Referral Programs,Contact
+Customer Retention & Renewal Management,Referral Programs,Account
+Customer Retention & Renewal Management,Referral Programs,Campaign
+Customer Success,Customer Success Leadership,Health Score
+Customer Success,Customer Success Leadership,KPI / Metric
+Customer Success,Customer Success Leadership,Account
+Customer Success,Customer Success Leadership,Opportunity / Deal
+Customer Success,Success Management,Account
+Customer Success,Success Management,Activity / Touchpoint
+Customer Success,Success Management,Health Score
+Customer Success,Success Management,KPI / Metric
+Customer Success,Success Management,Contact
+Customer Success,Adoption & Value Realization,Health Score
+Customer Success,Adoption & Value Realization,KPI / Metric
+Customer Success,Adoption & Value Realization,Account
+Customer Success,Adoption & Value Realization,Product
+Customer Success,Technical Success,Activity / Touchpoint
+Customer Success,Technical Success,Account
+Customer Success,Technical Success,Product
+Customer Success,Technical Success,Ticket / Case
+Customer Support,Customer Care,Ticket / Case
+Customer Support,Customer Care,Activity / Touchpoint
+Customer Support,Customer Care,Account
+Customer Support,Customer Care,Knowledge Article
+Customer Support,Technical Support (L1/L2/L3),Ticket / Case
+Customer Support,Technical Support (L1/L2/L3),Knowledge Article
+Customer Support,Technical Support (L1/L2/L3),Product
+Customer Support,Technical Support (L1/L2/L3),Contact
+Customer Support,Service Desk,Ticket / Case
+Customer Support,Service Desk,Workflow / Sequence
+Customer Support,Service Desk,Account
+Customer Support,Service Desk,Knowledge Article
+Customer Support,Escalation Management,Ticket / Case
+Customer Support,Escalation Management,Health Score
+Customer Support,Escalation Management,Account
+Customer Support,Escalation Management,Role / Agent
+E-Commerce / Marketplace Operations,Marketplace Management,Listing / SKU
+E-Commerce / Marketplace Operations,Marketplace Management,Channel
+E-Commerce / Marketplace Operations,Marketplace Management,Offer
+E-Commerce / Marketplace Operations,Marketplace Management,Order
+E-Commerce / Marketplace Operations,Catalog Management,Listing / SKU
+E-Commerce / Marketplace Operations,Catalog Management,Product
+E-Commerce / Marketplace Operations,Catalog Management,Content Asset
+E-Commerce / Marketplace Operations,Catalog Management,Offer
+E-Commerce / Marketplace Operations,Merchandising,Offer
+E-Commerce / Marketplace Operations,Merchandising,Listing / SKU
+E-Commerce / Marketplace Operations,Merchandising,Campaign
+E-Commerce / Marketplace Operations,Merchandising,KPI / Metric
+E-Commerce / Marketplace Operations,Commerce Operations,Order
+E-Commerce / Marketplace Operations,Commerce Operations,Listing / SKU
+E-Commerce / Marketplace Operations,Commerce Operations,Contact
+E-Commerce / Marketplace Operations,Commerce Operations,Offer
+E-Commerce / Marketplace Operations,Conversion Optimization,KPI / Metric
+E-Commerce / Marketplace Operations,Conversion Optimization,Channel
+E-Commerce / Marketplace Operations,Conversion Optimization,Listing / SKU
+E-Commerce / Marketplace Operations,Conversion Optimization,Order
+Revenue Operations (RevOps),RevOps Leadership,Workflow / Sequence
+Revenue Operations (RevOps),RevOps Leadership,KPI / Metric
+Revenue Operations (RevOps),RevOps Leadership,Opportunity / Deal
+Revenue Operations (RevOps),RevOps Leadership,Account
+Revenue Operations (RevOps),Sales Operations,Quota / Target
+Revenue Operations (RevOps),Sales Operations,Territory / Region
+Revenue Operations (RevOps),Sales Operations,Opportunity / Deal
+Revenue Operations (RevOps),Sales Operations,KPI / Metric
+Revenue Operations (RevOps),Marketing Operations,Campaign
+Revenue Operations (RevOps),Marketing Operations,KPI / Metric
+Revenue Operations (RevOps),Marketing Operations,Lead
+Revenue Operations (RevOps),Marketing Operations,Channel
+Revenue Operations (RevOps),Customer Success Operations,Health Score
+Revenue Operations (RevOps),Customer Success Operations,Workflow / Sequence
+Revenue Operations (RevOps),Customer Success Operations,Account
+Revenue Operations (RevOps),Customer Success Operations,KPI / Metric
+Revenue Operations (RevOps),CRM Operations,Account
+Revenue Operations (RevOps),CRM Operations,Contact
+Revenue Operations (RevOps),CRM Operations,Workflow / Sequence
+Revenue Operations (RevOps),CRM Operations,Opportunity / Deal
+Revenue Operations (RevOps),CRM Operations,KPI / Metric
+Revenue Operations (RevOps),Revenue Analytics,KPI / Metric
+Revenue Operations (RevOps),Revenue Analytics,Opportunity / Deal
+Revenue Operations (RevOps),Revenue Analytics,Order
+Revenue Operations (RevOps),Revenue Analytics,Account
+Recruitment / Talent Acquisition,Talent Acquisition Leadership,Job Requisition
+Recruitment / Talent Acquisition,Talent Acquisition Leadership,KPI / Metric
+Recruitment / Talent Acquisition,Talent Acquisition Leadership,Employee
+Recruitment / Talent Acquisition,Talent Acquisition Leadership,Budget
+Recruitment / Talent Acquisition,Recruitment Operations,Job Requisition
+Recruitment / Talent Acquisition,Recruitment Operations,Candidate
+Recruitment / Talent Acquisition,Recruitment Operations,Employee
+Recruitment / Talent Acquisition,Recruitment Operations,KPI / Metric
+Recruitment / Talent Acquisition,Talent Sourcing,Candidate
+Recruitment / Talent Acquisition,Talent Sourcing,Content Asset
+Recruitment / Talent Acquisition,Talent Sourcing,Job Requisition
+Recruitment / Talent Acquisition,Campus & Early Careers,Candidate
+Recruitment / Talent Acquisition,Campus & Early Careers,Content Asset
+Recruitment / Talent Acquisition,Campus & Early Careers,Job Requisition
+Recruitment / Talent Acquisition,Campus & Early Careers,Employee
+Recruitment / Talent Acquisition,Employer Branding,Content Asset
+Recruitment / Talent Acquisition,Employer Branding,Candidate
+Recruitment / Talent Acquisition,Employer Branding,Persona / ICP
+Recruitment / Talent Acquisition,Executive Hiring,Candidate
+Recruitment / Talent Acquisition,Executive Hiring,Job Requisition
+Recruitment / Talent Acquisition,Executive Hiring,Employee
+HR Operations,HR Leadership,Policy / Control
+HR Operations,HR Leadership,Employee
+HR Operations,HR Leadership,KPI / Metric
+HR Operations,HR Business Partnering,Employee
+HR Operations,HR Business Partnering,Record
+HR Operations,HR Business Partnering,Policy / Control
+HR Operations,HR Business Partnering,KPI / Metric
+HR Operations,Employee Lifecycle Management,Employee
+HR Operations,Employee Lifecycle Management,Record
+HR Operations,Employee Lifecycle Management,Role / Agent
+HR Operations,Workforce Administration,Record
+HR Operations,Workforce Administration,Employee
+HR Operations,Compensation & Benefits,Compensation Record
+HR Operations,Compensation & Benefits,Employee
+HR Operations,Compensation & Benefits,Budget
+HR Operations,Compensation & Benefits,KPI / Metric
+Team Performance Management,Performance Leadership,KPI / Metric
+Team Performance Management,Performance Leadership,Policy / Control
+Team Performance Management,Performance Leadership,Employee
+Team Performance Management,Performance Programs,Performance Review
+Team Performance Management,Performance Programs,Goal / OKR
+Team Performance Management,Performance Programs,Employee
+Team Performance Management,Organizational Effectiveness,KPI / Metric
+Team Performance Management,Organizational Effectiveness,Employee
+Team Performance Management,Organizational Effectiveness,Survey / Feedback
+Team Performance Management,Talent Assessment,Performance Review
+Team Performance Management,Talent Assessment,Employee
+Team Performance Management,Talent Assessment,Goal / OKR
+Learning & Development (L&D),Learning Leadership,Course
+Learning & Development (L&D),Learning Leadership,KPI / Metric
+Learning & Development (L&D),Learning Leadership,Employee
+Learning & Development (L&D),Training Operations,Course
+Learning & Development (L&D),Training Operations,Employee
+Learning & Development (L&D),Training Operations,Knowledge Article
+Learning & Development (L&D),Leadership Development,Course
+Learning & Development (L&D),Leadership Development,Employee
+Learning & Development (L&D),Leadership Development,Goal / OKR
+Learning & Development (L&D),Capability Development,Course
+Learning & Development (L&D),Capability Development,Employee
+Learning & Development (L&D),Capability Development,KPI / Metric
+Learning & Development (L&D),Learning Technology,System / Service
+Learning & Development (L&D),Learning Technology,Course
+Learning & Development (L&D),Learning Technology,KPI / Metric
+Employee Engagement,Employee Experience,Survey / Feedback
+Employee Engagement,Employee Experience,KPI / Metric
+Employee Engagement,Employee Experience,Employee
+Employee Engagement,Culture & Wellbeing,Content Asset
+Employee Engagement,Culture & Wellbeing,Employee
+Employee Engagement,Culture & Wellbeing,Survey / Feedback
+Employee Engagement,Internal Communications,Content Asset
+Employee Engagement,Internal Communications,Employee
+Employee Engagement,Employee Programs,Event
+Employee Engagement,Employee Programs,Employee
+Employee Engagement,Employee Programs,Content Asset
+Accounting,Finance Leadership,Ledger Account
+Accounting,Finance Leadership,KPI / Metric
+Accounting,Finance Leadership,Budget
+Accounting,General Accounting,Ledger Account
+Accounting,General Accounting,Record
+Accounting,General Accounting,Invoice
+Accounting,Accounts Payable,Invoice
+Accounting,Accounts Payable,Payment
+Accounting,Accounts Payable,Supplier
+Accounting,Accounts Payable,Ledger Account
+Accounting,Accounts Receivable,Invoice
+Accounting,Accounts Receivable,Payment
+Accounting,Accounts Receivable,Account
+Accounting,Accounts Receivable,Ledger Account
+Accounting,Fixed Assets,Asset
+Accounting,Fixed Assets,Ledger Account
+Accounting,Audit & Reporting,Record
+Accounting,Audit & Reporting,KPI / Metric
+Accounting,Audit & Reporting,Ledger Account
+FP&A (Financial Planning & Analysis),Financial Strategy,Budget
+FP&A (Financial Planning & Analysis),Financial Strategy,KPI / Metric
+FP&A (Financial Planning & Analysis),Financial Strategy,Ledger Account
+FP&A (Financial Planning & Analysis),Budgeting & Forecasting,Budget
+FP&A (Financial Planning & Analysis),Budgeting & Forecasting,KPI / Metric
+FP&A (Financial Planning & Analysis),Budgeting & Forecasting,Ledger Account
+FP&A (Financial Planning & Analysis),Business Finance,Budget
+FP&A (Financial Planning & Analysis),Business Finance,Opportunity / Deal
+FP&A (Financial Planning & Analysis),Business Finance,Account
+FP&A (Financial Planning & Analysis),Financial Analytics,KPI / Metric
+FP&A (Financial Planning & Analysis),Financial Analytics,Ledger Account
+FP&A (Financial Planning & Analysis),Financial Analytics,Budget
+Taxation,Tax Leadership,Tax Filing
+Taxation,Tax Leadership,Policy / Control
+Taxation,Tax Leadership,Regulation
+Taxation,Direct Tax,Tax Filing
+Taxation,Direct Tax,Record
+Taxation,Direct Tax,Ledger Account
+Taxation,Direct Tax,Regulation
+Taxation,Indirect Tax,Tax Filing
+Taxation,Indirect Tax,Record
+Taxation,Indirect Tax,Ledger Account
+Taxation,Indirect Tax,Regulation
+Taxation,International Tax,Tax Filing
+Taxation,International Tax,Regulation
+Taxation,International Tax,Ledger Account
+Payroll Finance,Payroll Leadership,Payroll Run
+Payroll Finance,Payroll Leadership,Policy / Control
+Payroll Finance,Payroll Leadership,Employee
+Payroll Finance,Payroll Operations,Payroll Run
+Payroll Finance,Payroll Operations,Payment
+Payroll Finance,Payroll Operations,Employee
+Payroll Finance,Payroll Operations,Compensation Record
+Payroll Finance,Compensation Administration,Compensation Record
+Payroll Finance,Compensation Administration,Payment
+Payroll Finance,Compensation Administration,Employee
+Corporate Legal,Legal Leadership,Legal Matter
+Corporate Legal,Legal Leadership,Policy / Control
+Corporate Legal,Legal Leadership,Regulation
+Corporate Legal,Corporate Legal,Legal Matter
+Corporate Legal,Corporate Legal,Record
+Corporate Legal,Corporate Legal,Contract
+Corporate Legal,Corporate Legal,Regulation
+Corporate Legal,Litigation,Legal Matter
+Corporate Legal,Litigation,Record
+Corporate Legal,Litigation,Contract
+Corporate Legal,Litigation,Account
+Corporate Legal,Employment Law,Legal Matter
+Corporate Legal,Employment Law,Policy / Control
+Corporate Legal,Employment Law,Employee
+Corporate Legal,Employment Law,Regulation
+Contract Management,Contract Administration,Contract
+Contract Management,Contract Administration,Record
+Contract Management,Contract Administration,Renewal / Subscription
+Contract Management,Commercial Contracts,Contract
+Contract Management,Commercial Contracts,Account
+Contract Management,Commercial Contracts,Offer
+Contract Management,Vendor Contracts,Contract
+Contract Management,Vendor Contracts,Supplier
+Contract Management,Vendor Contracts,Purchase Order
+Contract Management,Customer Contracts,Contract
+Contract Management,Customer Contracts,Renewal / Subscription
+Contract Management,Customer Contracts,Account
+Compliance & Regulatory,Compliance Leadership,Policy / Control
+Compliance & Regulatory,Compliance Leadership,KPI / Metric
+Compliance & Regulatory,Compliance Leadership,Regulation
+Compliance & Regulatory,Regulatory Compliance,Policy / Control
+Compliance & Regulatory,Regulatory Compliance,Record
+Compliance & Regulatory,Regulatory Compliance,Regulation
+Compliance & Regulatory,Internal Controls,Policy / Control
+Compliance & Regulatory,Internal Controls,Record
+Compliance & Regulatory,Internal Controls,Risk
+Compliance & Regulatory,Risk Management,Risk
+Compliance & Regulatory,Risk Management,KPI / Metric
+Compliance & Regulatory,Risk Management,Incident
+Compliance & Regulatory,Risk Management,Policy / Control
+Intellectual Property (IP),IP Leadership,IP Asset
+Intellectual Property (IP),IP Leadership,Policy / Control
+Intellectual Property (IP),IP Leadership,Product
+Intellectual Property (IP),Patent Management,IP Asset
+Intellectual Property (IP),Patent Management,Record
+Intellectual Property (IP),Patent Management,Product
+Intellectual Property (IP),Patent Management,Legal Matter
+Intellectual Property (IP),Trademark Management,IP Asset
+Intellectual Property (IP),Trademark Management,Record
+Intellectual Property (IP),Trademark Management,Brand
+Intellectual Property (IP),Licensing,Contract
+Intellectual Property (IP),Licensing,IP Asset
+Intellectual Property (IP),Licensing,Account
+Administration & Facilities,Facilities Leadership,Facility
+Administration & Facilities,Facilities Leadership,Budget
+Administration & Facilities,Facilities Leadership,Asset
+Administration & Facilities,Workplace Operations,Facility
+Administration & Facilities,Workplace Operations,Employee
+Administration & Facilities,Workplace Operations,Asset
+Administration & Facilities,Facility Services,Asset
+Administration & Facilities,Facility Services,Record
+Administration & Facilities,Facility Services,Facility
+Administration & Facilities,Facility Services,Supplier
+Administration & Facilities,Travel & Logistics,Record
+Administration & Facilities,Travel & Logistics,Payment
+Administration & Facilities,Travel & Logistics,Supplier
+Administration & Facilities,Travel & Logistics,Employee
+Compliance & Documentation,Documentation Governance,Policy / Control
+Compliance & Documentation,Documentation Governance,Record
+Compliance & Documentation,Documentation Governance,Knowledge Article
+Compliance & Documentation,Document Control,Record
+Compliance & Documentation,Document Control,Policy / Control
+Compliance & Documentation,Knowledge Governance,Knowledge Article
+Compliance & Documentation,Knowledge Governance,Policy / Control
+Compliance & Documentation,Knowledge Governance,Record
+Security,Corporate Security,Policy / Control
+Security,Corporate Security,Incident
+Security,Corporate Security,Facility
+Security,Physical Security,Incident
+Security,Physical Security,Record
+Security,Physical Security,Facility
+Security,Physical Security,Employee
+Security,Investigations,Record
+Security,Investigations,Incident
+Security,Investigations,Employee
+Security,Access Control,Policy / Control
+Security,Access Control,Employee
+Security,Access Control,System / Service
+Safety,Safety Leadership,Policy / Control
+Safety,Safety Leadership,KPI / Metric
+Safety,Safety Leadership,Risk
+Safety,Workplace Safety,Risk
+Safety,Workplace Safety,Incident
+Safety,Workplace Safety,Facility
+Safety,Workplace Safety,Policy / Control
+Safety,Occupational Health,Record
+Safety,Occupational Health,Employee
+Safety,Occupational Health,Policy / Control
+Safety,Incident Management,Incident
+Safety,Incident Management,Record
+Safety,Incident Management,Employee
+Safety,Incident Management,Risk
+Supply Chain & Logistics,Supply Chain Leadership,KPI / Metric
+Supply Chain & Logistics,Supply Chain Leadership,Supplier
+Supply Chain & Logistics,Supply Chain Leadership,Purchase Order
+Supply Chain & Logistics,Procurement,Purchase Order
+Supply Chain & Logistics,Procurement,Supplier
+Supply Chain & Logistics,Procurement,Inventory Item
+Supply Chain & Logistics,Procurement,Budget
+Supply Chain & Logistics,Logistics,Shipment
+Supply Chain & Logistics,Logistics,KPI / Metric
+Supply Chain & Logistics,Logistics,Purchase Order
+Supply Chain & Logistics,Logistics,Facility
+Supply Chain & Logistics,Vendor Management,Supplier
+Supply Chain & Logistics,Vendor Management,Contract
+Supply Chain & Logistics,Vendor Management,KPI / Metric
+Supply Chain & Logistics,Distribution,Shipment
+Supply Chain & Logistics,Distribution,Inventory Item
+Supply Chain & Logistics,Distribution,Order
+Production / Manufacturing,Manufacturing Leadership,Work Order
+Production / Manufacturing,Manufacturing Leadership,KPI / Metric
+Production / Manufacturing,Manufacturing Leadership,Asset
+Production / Manufacturing,Production Operations,Work Order
+Production / Manufacturing,Production Operations,Inventory Item
+Production / Manufacturing,Production Operations,Asset
+Production / Manufacturing,Process Engineering,Work Order
+Production / Manufacturing,Process Engineering,KPI / Metric
+Production / Manufacturing,Process Engineering,Product
+Production / Manufacturing,Industrial Engineering,Asset
+Production / Manufacturing,Industrial Engineering,KPI / Metric
+Production / Manufacturing,Industrial Engineering,Work Order
+Inventory & Stock Management,Inventory Planning,Inventory Item
+Inventory & Stock Management,Inventory Planning,Purchase Order
+Inventory & Stock Management,Inventory Planning,KPI / Metric
+Inventory & Stock Management,Warehouse Operations,Inventory Item
+Inventory & Stock Management,Warehouse Operations,Facility
+Inventory & Stock Management,Warehouse Operations,Shipment
+Inventory & Stock Management,Materials Management,Inventory Item
+Inventory & Stock Management,Materials Management,Purchase Order
+Inventory & Stock Management,Inventory Analytics,KPI / Metric
+Inventory & Stock Management,Inventory Analytics,Inventory Item
+Service Delivery,Delivery Leadership,Project
+Service Delivery,Delivery Leadership,KPI / Metric
+Service Delivery,Delivery Leadership,Contract
+Service Delivery,Service Operations,Ticket / Case
+Service Delivery,Service Operations,Project
+Service Delivery,Service Operations,Contract
+Service Delivery,Customer Delivery,Project
+Service Delivery,Customer Delivery,Activity / Touchpoint
+Service Delivery,Customer Delivery,Account
+Service Delivery,Managed Services,Project
+Service Delivery,Managed Services,Ticket / Case
+Service Delivery,Managed Services,System / Service
+Project Management,PMO Leadership,Project
+Project Management,PMO Leadership,KPI / Metric
+Project Management,PMO Leadership,Budget
+Project Management,Program Management,Project
+Project Management,Program Management,Risk
+Project Management,Program Management,Budget
+Project Management,Program Management,Employee
+Project Management,Project Management,Project
+Project Management,Project Management,Risk
+Project Management,Project Management,KPI / Metric
+Project Management,Project Management,Employee
+Project Management,Portfolio Management,KPI / Metric
+Project Management,Portfolio Management,Project
+Project Management,Portfolio Management,Budget
+"IT (Networking, Infrastructure & Support)",IT Leadership,System / Service
+"IT (Networking, Infrastructure & Support)",IT Leadership,Policy / Control
+"IT (Networking, Infrastructure & Support)",IT Leadership,KPI / Metric
+"IT (Networking, Infrastructure & Support)",Infrastructure,Asset
+"IT (Networking, Infrastructure & Support)",Infrastructure,System / Service
+"IT (Networking, Infrastructure & Support)",Infrastructure,KPI / Metric
+"IT (Networking, Infrastructure & Support)",Network Operations,System / Service
+"IT (Networking, Infrastructure & Support)",Network Operations,Incident
+"IT (Networking, Infrastructure & Support)",Network Operations,Asset
+"IT (Networking, Infrastructure & Support)",End User Support,Ticket / Case
+"IT (Networking, Infrastructure & Support)",End User Support,Activity / Touchpoint
+"IT (Networking, Infrastructure & Support)",End User Support,Knowledge Article
+"IT (Networking, Infrastructure & Support)",End User Support,Employee
+"IT (Networking, Infrastructure & Support)",Enterprise Applications,System / Service
+"IT (Networking, Infrastructure & Support)",Enterprise Applications,Record
+"IT (Networking, Infrastructure & Support)",Enterprise Applications,Employee
+Engineering / R&D,Engineering Leadership,Feature
+Engineering / R&D,Engineering Leadership,KPI / Metric
+Engineering / R&D,Engineering Leadership,Product
+Engineering / R&D,Research,Feature
+Engineering / R&D,Research,Knowledge Article
+Engineering / R&D,Research,Product
+Engineering / R&D,Product Engineering,Feature
+Engineering / R&D,Product Engineering,Release
+Engineering / R&D,Product Engineering,Defect
+Engineering / R&D,Product Engineering,Product
+Engineering / R&D,Innovation,Feature
+Engineering / R&D,Innovation,Product
+Engineering / R&D,Innovation,KPI / Metric
+DevOps / Infrastructure,DevOps Leadership,Release
+DevOps / Infrastructure,DevOps Leadership,Policy / Control
+DevOps / Infrastructure,DevOps Leadership,System / Service
+DevOps / Infrastructure,Platform Engineering,System / Service
+DevOps / Infrastructure,Platform Engineering,Release
+DevOps / Infrastructure,Platform Engineering,Asset
+DevOps / Infrastructure,DevOps Operations,Release
+DevOps / Infrastructure,DevOps Operations,System / Service
+DevOps / Infrastructure,DevOps Operations,Incident
+DevOps / Infrastructure,Site Reliability,Incident
+DevOps / Infrastructure,Site Reliability,KPI / Metric
+DevOps / Infrastructure,Site Reliability,System / Service
+DevOps / Infrastructure,Cloud Operations,Asset
+DevOps / Infrastructure,Cloud Operations,System / Service
+DevOps / Infrastructure,Cloud Operations,KPI / Metric
+DevOps / Infrastructure,Cloud Operations,Budget
+Design,Design Leadership,Design Asset
+Design,Design Leadership,KPI / Metric
+Design,Design Leadership,Feature
+Design,Product Design,Design Asset
+Design,Product Design,Feature
+Design,Product Design,Persona / ICP
+Design,Design Research,Design Asset
+Design,Design Research,Persona / ICP
+Design,Design Research,Feature
+Design,Visual Design,Content Asset
+Design,Visual Design,Design Asset
+Design,Visual Design,Brand
+Data / AI / Business Analysis,Data Leadership,Policy / Control
+Data / AI / Business Analysis,Data Leadership,KPI / Metric
+Data / AI / Business Analysis,Data Leadership,Dataset
+Data / AI / Business Analysis,Data Engineering,Dataset
+Data / AI / Business Analysis,Data Engineering,System / Service
+Data / AI / Business Analysis,Data Engineering,Record
+Data / AI / Business Analysis,Data Science,ML Model
+Data / AI / Business Analysis,Data Science,Dataset
+Data / AI / Business Analysis,Data Science,KPI / Metric
+Data / AI / Business Analysis,AI / ML,ML Model
+Data / AI / Business Analysis,AI / ML,System / Service
+Data / AI / Business Analysis,AI / ML,Dataset
+Data / AI / Business Analysis,Analytics,KPI / Metric
+Data / AI / Business Analysis,Analytics,Dataset
+Data / AI / Business Analysis,Analytics,Account
+Data / AI / Business Analysis,Decision Science,KPI / Metric
+Data / AI / Business Analysis,Decision Science,Dataset
+Data / AI / Business Analysis,Decision Science,ML Model
+Quality Assurance (QA),Quality Leadership,Policy / Control
+Quality Assurance (QA),Quality Leadership,KPI / Metric
+Quality Assurance (QA),Quality Leadership,Release
+Quality Assurance (QA),Quality Assurance,Test Case
+Quality Assurance (QA),Quality Assurance,Defect
+Quality Assurance (QA),Quality Assurance,Feature
+Quality Assurance (QA),Testing,Test Case
+Quality Assurance (QA),Testing,Defect
+Quality Assurance (QA),Testing,Release
+Quality Assurance (QA),Testing,Feature
+Quality Assurance (QA),Quality Systems,Policy / Control
+Quality Assurance (QA),Quality Systems,Record
+Quality Assurance (QA),Quality Systems,KPI / Metric
+Product Management,Product Leadership,Product
+Product Management,Product Leadership,KPI / Metric
+Product Management,Product Leadership,Persona / ICP
+Product Management,Product Strategy,Product
+Product Management,Product Strategy,Feature
+Product Management,Product Strategy,Market
+Product Management,Product Strategy,Competitor
+Product Management,Product Delivery,Feature
+Product Management,Product Delivery,Release
+Product Management,Product Delivery,Product
+Product Management,Product Operations,KPI / Metric
+Product Management,Product Operations,Workflow / Sequence
+Product Management,Product Operations,Feature
+Product Management,Product Analytics,KPI / Metric
+Product Management,Product Analytics,Feature
+Product Management,Product Analytics,Product
+Product Management,Product Ownership,Feature
+Product Management,Product Ownership,Goal / OKR
+Product Management,Product Ownership,Persona / ICP
